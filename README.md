@@ -1,3 +1,3 @@
-# senior-design
+# Senior Design
 
-rizz
+FH 11 Ultrasonic Imaging
